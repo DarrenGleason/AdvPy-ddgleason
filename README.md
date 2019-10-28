@@ -11,3 +11,10 @@
     -Game lets you play again if you would like to. (10 points)
     -Game runs without logical errors. (30 points)
     -total points = 100
+
+# 2. kattis
+    -I have completed 6 kattis
+    -Two kattis problems 1.8 and above
+    -Two kattis problems 2.2 and above
+    -Two kattis problems 2.6 and above
+    -Did not finish test cases (90%)
